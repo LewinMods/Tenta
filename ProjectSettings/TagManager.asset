@@ -50,6 +50,9 @@ TagManager:
   - name: Obstacles
     uniqueID: 635839493
     locked: 0
+  - name: Ball
+    uniqueID: 3304370805
+    locked: 0
   - name: Player
     uniqueID: 3382598177
     locked: 0
