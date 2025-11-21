@@ -4,7 +4,7 @@ using UnityEngine;
 public class Timer : MonoBehaviour
 {
     private TextMeshProUGUI textMesh;
-    private float timer = 5;
+    private float timer = 7;
     void Start()
     {
         textMesh = GetComponent<TextMeshProUGUI>();
